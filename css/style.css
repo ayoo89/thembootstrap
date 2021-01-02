@@ -1,0 +1,71 @@
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+
+.navbar-brand
+{
+    
+       font-size: medium;
+       color: rgb(236, 14, 14);
+    }
+   
+
+.TT
+{
+    
+    color: rgb(16, 88, 243);
+    border-bottom: 2px solid rgb(175, 173, 173) ;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+}
+.x 
+{
+    color: rgb(248, 141, 141);
+
+}
+
+
+.card a
+{
+margin-left: 25px;
+}
+
+.about
+{
+    padding: 70px;
+    background-color: #1d2124;
+    color: #FFF;
+}
+.footer
+{
+    background-color: rgb(178, 240, 206);
+  
+}
+.footer h4
+{
+    font-size: 24px;
+    color: rgb(3, 0, 0);
+}
+.footer .social li
+{
+    display: inline-block; 
+    margin-right: 20px;
+}
+
+.footer .social li i 
+{
+    background-color: #FFF;
+    padding: 5px;
+}
